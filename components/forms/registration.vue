@@ -13,7 +13,7 @@
     " method="post" @submit.prevent="submit">
     <h2 class="text-gray-900 text-lg font-medium title-font mb-5">
       <!-- {{ $t("sign_up") }} -->
-        SIGN UP YOUR ACCOUNT FOR FREE!!!!!
+        SIGN UP YOUR ACCOUNT FOR FREE!!!!!!!!
     </h2>
     <div class="relative mb-4">
       <label for="name" class="leading-7 text-sm text-gray-600">{{
